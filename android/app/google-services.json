@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "271736423528",
+    "project_id": "ecoearn-7c0ca",
+    "storage_bucket": "ecoearn-7c0ca.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271736423528:android:2cd70ec6fc23c5bcf7e7dd",
+        "android_client_info": {
+          "package_name": "com.example.ecoearn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnPG9GG7UqhMDaZxgHfWEI9mSpWOe9qs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
